@@ -1,6 +1,6 @@
-# Desafio 1 java supera<br>
+# Desafio 2 java supera<br>
 
-## 1. desafio Resistores.
+## 2. desafio Flores de Samambaia.
 
 ## Installation
 ```bash
