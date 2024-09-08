@@ -1,6 +1,6 @@
-# Desafio 2 java supera<br>
+# Desafio 1 java supera<br>
 
-## 2. desafio Flores de Samambaia.
+## 1. desafio Flores de Samambaia.
 
 ## Installation
 ```bash
@@ -29,3 +29,6 @@ Resposta Esperada ----> RICO
 
 https://github.com/user-attachments/assets/b0b3b452-ac7a-4ce1-a884-cf1a1f1fd9a4
 
+# Desafio 2 java supera<br>
+
+## 2. desafio Snail.
