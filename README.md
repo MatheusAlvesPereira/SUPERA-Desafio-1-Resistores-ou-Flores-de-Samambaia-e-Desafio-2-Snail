@@ -32,3 +32,14 @@ https://github.com/user-attachments/assets/b0b3b452-ac7a-4ce1-a884-cf1a1f1fd9a4
 # Desafio 2 java supera<br>
 
 ## 2. desafio Snail.
+
+O desafio "Snail" consiste em percorrer uma matriz quadrada 
+𝑁
+×
+𝑁
+N×N em um padrão espiral no sentido horário, começando pelos elementos externos e indo em direção ao centro. O objetivo é retornar uma lista com os elementos da matriz organizados nesta ordem espiral.
+
+
+
+https://github.com/user-attachments/assets/b7114ec2-df6d-4e03-9453-645e3480cd92
+
